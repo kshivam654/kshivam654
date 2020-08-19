@@ -5,7 +5,7 @@
 
 ## I'm a Student, Son, Friend, Developer, and Teacher!
 
-- 🔭 I’m currently Studing in a [VS Code Course][col_website]!
+- 🔭 I’m currently Studing in a [UEM, Kolkata][col_website]!
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2020 Goals: Contribute more to Open Source projects
