@@ -1,5 +1,6 @@
+# Hi there, I'm Shivam - aka [Cherri]
+
 <h1 align="center">Hey <img src="https://raw.githubusercontent.com/kshivam654/kshivam654/master/hello.gif" width="40px" />, Welcome to my GitHub 👨‍💻❤️</h1>
-### Hi there, I'm Shivam - aka [Cherri] 👋
 
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/kshivam654?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FcodeSTACKr&screen_name=kshivam654)
