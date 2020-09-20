@@ -1,3 +1,4 @@
+<h1 align="center">Hey <img src="https://raw.githubusercontent.com/kshivam654/kshivam654/master/hello.gif" width="40px" />, Welcome to my GitHub 👨‍💻❤️</h1>
 ### Hi there, I'm Shivam - aka [Cherri] 👋
 
 
