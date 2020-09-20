@@ -3,6 +3,9 @@
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/kshivam654?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FcodeSTACKr&screen_name=kshivam654)
 
+
+[![Shivam has a lot of ideas.](https://i.ibb.co/XLnnHQ6/0-IM0ufba-Lrfx-TTSis.jpg)](https://ibb.co/GpZZm6G)
+
 ## I'm a Student, Son, Friend, Developer, and Teacher!
 
 - 🔭 I’m currently Studing in a [UEM, Kolkata][col_website]!
