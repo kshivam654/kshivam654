@@ -10,10 +10,11 @@
 
 ## I'm a Student, Son, Friend, Developer, and Teacher!
 
-- 🔭 I’m currently Studing in a [UEM, Kolkata][col_website]!
+- 👨🏽‍💻 Currently working at [OculusIT][company_website]
+- 🔭 I graduated from [UEM, Kolkata][col_website]!
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other content creators
-- 🥅 2020 Goals: Contribute more to Open Source projects
+- 🥅 2024 Goals: Learn Rust, Scala and contribute to open-source
 - ⚡ Fun fact: I love to draw and play chess / skribble
 
 ### Spotify Playing 🎧
@@ -62,6 +63,7 @@
 [twitter]: https://twitter.com/kshivam654
 [instagram]: https://www.instagram.com/they_named_shivam/
 [linkedin]: https://www.linkedin.com/in/shivam-sharma-855589160/
+[company_website]: https://www.oculusit.com/
 
 
 [webdevplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrAJ0WbEsFA9W3I1W-g_BTsbt
