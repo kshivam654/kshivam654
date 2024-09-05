@@ -10,7 +10,7 @@
 
 ## I'm a Student, Son, Friend, Developer, and Teacher!
 
-- 👨🏽‍💻 Currently working at [OculusIT][company_website]
+- 👨🏽‍💻 Currently working at [Goldman Sachs][company_website]
 - 🔭 I graduated from [UEM, Kolkata][col_website]!
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other content creators
@@ -63,7 +63,7 @@
 [twitter]: https://twitter.com/kshivam654
 [instagram]: https://www.instagram.com/they_named_shivam/
 [linkedin]: https://www.linkedin.com/in/shivam-sharma-855589160/
-[company_website]: https://www.oculusit.com/
+[company_website]: https://www.gs.com/
 
 
 [webdevplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrAJ0WbEsFA9W3I1W-g_BTsbt
