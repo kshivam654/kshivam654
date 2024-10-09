@@ -10,7 +10,7 @@
 
 ## I'm a Student, Son, Friend, Developer, and Teacher!
 
-- 👨🏽‍💻 Currently working at [OIT][company_website]
+- 👨🏽‍💻 Currently working at [GS][company_website]
 - 🔭 I graduated from [UEM, Kolkata][col_website]!
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other content creators
