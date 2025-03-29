@@ -1,72 +1,75 @@
-# Hi there, I'm Shivam - aka [Cherri]
+# Hi there, I'm Shivam - aka [Cherri] 👨‍💻
 
-<h1 align="center">Hey <img src="https://raw.githubusercontent.com/kshivam654/kshivam654/master/hello.gif" width="40px" />, Welcome to my GitHub 👨‍💻❤️</h1>
+<div align="center">
+  <img src="https://raw.githubusercontent.com/kshivam654/kshivam654/master/hello.gif" width="40px" />
+  <h2>Welcome to my GitHub Profile</h2>
+  <p>🚀 Full Stack Developer | Problem Solver | Tech Enthusiast</p>
+</div>
 
+<div align="center">
+  <img src="https://i.ibb.co/XLnnHQ6/0-IM0ufba-Lrfx-TTSis.jpg" width="100%" height="350">
+</div>
 
-[![Twitter Follow](https://img.shields.io/twitter/follow/kshivam654?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FcodeSTACKr&screen_name=kshivam654)
+## 🌟 About Me
 
-<img src="https://i.ibb.co/XLnnHQ6/0-IM0ufba-Lrfx-TTSis.jpg" width="1600" height="350">
+- 🎓 Graduate from [UEM, Kolkata][col_website]
+- 💼 Currently working at [Goldman Sachs][company_website]
+- 🌐 Visit my portfolio: [imshivam.in](https://imshivam.in)
+- 🎯 2024 Goals: Master Rust, Scala & Contribute to Open Source
+- ⚡ Fun fact: I love drawing, chess, and skribble!
 
+## 🎵 Now Playing
+[<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="Shivam's Spotify Playing" width="350" />](https://open.spotify.com/user/31eogptf35hf6vlulemq3omdlyda?si=5MZ8MOpySzyh7COub-nG6w)
 
-## I'm a Student, Son, Friend, Developer, and Teacher!
+## 🤝 Connect With Me
 
-- 👨🏽‍💻 Currently working at [GS][company_website]
-- 🔭 I graduated from [UEM, Kolkata][col_website]!
-- 🌱 I’m currently learning everything 🤣
-- 👯 I’m looking to collaborate with other content creators
-- 🥅 2024 Goals: Learn Rust, Scala and contribute to open-source
-- ⚡ Fun fact: I love to draw and play chess / skribble
+<div align="center">
+  <a href="https://twitter.com/kshivam654">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
+  </a>
+  <a href="https://www.linkedin.com/in/shivam-sharma-855589160/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://www.instagram.com/they_named_shivam/">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+  </a>
+  <a href="https://imshivam.in">
+    <img src="https://img.shields.io/badge/Portfolio-FF6B6B?style=for-the-badge&logo=firefox&logoColor=white" alt="Portfolio"/>
+  </a>
+</div>
 
-### Spotify Playing 🎧
-[<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="codeSTACKr Spotify Playing" width="350" />](https://open.spotify.com/user/31eogptf35hf6vlulemq3omdlyda?si=5MZ8MOpySzyh7COub-nG6w)
+## 🛠️ Tech Stack
 
-### Connect with me:
+<div align="center">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React"/>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js"/>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
+  <img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white" alt="Sass"/>
+  <img src="https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white" alt="GraphQL"/>
+  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
+  <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" alt="Android"/>
+</div>
 
-[<img align="left" alt="kshivam654 | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="kshivam654 | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="kshivam654 | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+## 📊 GitHub Stats
 
-<br />
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=kshivam654&show_icons=true&theme=radical&hide_border=true" alt="Shivam's GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kshivam654&theme=radical&hide_border=true" alt="Shivam's Streak Stats" />
+</div>
 
-### Languages and Tools:
-[<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />][webdevplaylist]
-[<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />][webdevplaylist]
-[<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />][cssplaylist]
-[<img align="left" alt="Sass" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" />][cssplaylist]
-[<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />][jsplaylist]
-[<img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />][reactplaylist]
-[<img align="left" alt="Gatsby" width="26px" src="https://raw.githubusercontent.com/github/explore/e94815998e4e0713912fed477a1f346ec04c3da2/topics/gatsby/gatsby.png" />][webdevplaylist]
-[<img align="left" alt="GraphQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/graphql/graphql.png" />][webdevplaylist]
-[<img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />][webdevplaylist]
-[<img align="left" alt="Deno" width="26px" src="https://raw.githubusercontent.com/github/explore/361e2821e2dea67711cde99c9c40ed357061cf27/topics/deno/deno.png" />][webdevplaylist]
-[<img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />][webdevplaylist]
-[<img align="left" alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />][webdevplaylist]
-[<img align="left" alt="MongoDB" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />][webdevplaylist]
-[<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />][webdevplaylist]
-[<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />][webdevplaylist]
-[<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />][webdevplaylist]
-[<img align="left" alt="Terminal" width="26px" src="https://img.icons8.com/cotton/64/000000/android-os.png"/>][webdevplaylist]
-<br />
-<br />
-
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=kshivam654&theme=radical&no-frame=true&column=7&margin-w=15&margin-h=15" alt="Trophy" />
+</div>
 
 ---
 
-<details>
-  <summary>:zap: Github Stats</summary>
-
-  <img align="left" alt="Shivams Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=kshivam654&show_icons=true&hide_border=true" />
-
-</details>
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=kshivam654&color=blueviolet&style=flat-square&label=PROFILE+VIEWS" alt="Profile Views" />
+</div>
 
 [col_website]: https://uem.edu.in/uem-kolkata/#
-[twitter]: https://twitter.com/kshivam654
-[instagram]: https://www.instagram.com/they_named_shivam/
-[linkedin]: https://www.linkedin.com/in/shivam-sharma-855589160/
 [company_website]: https://www.gs.com/
-
-
-[webdevplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrAJ0WbEsFA9W3I1W-g_BTsbt
-[jsplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALRJKu7wfXby3MKeflhTu6B
-[cssplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALSdvZuEh6gqQdmDoDIoqz4
-[reactplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrAK4TdffpxKY3QGyHCpxFcQ0
