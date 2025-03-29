@@ -19,7 +19,8 @@
 - ⚡ Fun fact: I love drawing, chess, and skribble!
 
 ## 🎵 Now Playing
-[<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="Shivam's Spotify Playing" width="350" />](https://open.spotify.com/user/31eogptf35hf6vlulemq3omdlyda?si=5MZ8MOpySzyh7COub-nG6w)
+[![Spotify](https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/user/31eogptf35hf6vlulemq3omdlyda?si=5MZ8MOpySzyh7COub-nG6w)
+[![Spotify](https://img.shields.io/badge/Now_Playing-1ED760?&style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/user/31eogptf35hf6vlulemq3omdlyda?si=5MZ8MOpySzyh7COub-nG6w)
 
 ## 🤝 Connect With Me
 
