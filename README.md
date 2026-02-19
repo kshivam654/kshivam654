@@ -1,11 +1,9 @@
 # Hi there, I'm Shivam 👨‍💻
 
 <div align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100%" height="auto" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=F7F7F7&center=true&vCenter=true&width=500&lines=SDE2+%26+Data+Engineer;Building+Scalable+Data+Pipelines;AI%2FML+Solutions+Expert;Open+Source+Contributor" alt="Typing SVG" />
   
-  ## 🚀 SDE2 & Data Engineer | AI/ML Solutions Expert
-  
-  <p>Building scalable data pipelines & high-performance systems.</p>
+  <br/>
 
   <a href="https://imshivam.in">
     <img src="https://img.shields.io/badge/Portfolio-FF6B6B?style=for-the-badge&logo=firefox&logoColor=white" alt="Portfolio"/>
@@ -16,15 +14,26 @@
   <a href="https://twitter.com/kshivam654">
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
   </a>
+  <a href="mailto:contact@imshivam.in">
+     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
 </div>
 
 ## 🌟 About Me
 
-- 🎓 Graduate from [UEM, Kolkata][col_website]
-- 💻 Experienced SDE2 specializing in **Data Engineering** & **AI/ML**.
-- 🛠️ passionate about building robust ETL pipelines, distributed systems, and real-time data processing.
-- 🎯 Goals: Mastering Rust, Scala & Contributing to Open Source data tools.
-- ⚡ Fun fact: I love drawing, chess, and skribble!
+<img align="right" width="350" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coding Gif" />
+
+> *"Data is the new oil, and I build the refineries."* 🛢️
+
+I am an experienced **SDE2** specializing in the intersection of **Big Data** and **AI**. I enjoy solving complex distributed system problems and optimizing pipelines for scale.
+
+- 🎓 **Alumni:** [UEM, Kolkata][col_website]
+- 🔭 **Currently working on:** Real-time stream processing with **Flink & Kafka**.
+- 🌱 **Learning:** Advanced **Rust** patterns & **Data Lakehouse** architectures.
+- 💬 **Ask me about:** Spark Tuning, System Design, or Chess Openings.
+- ⚡ **Fun fact:** I can debug code in my sleep (literally happened once).
+
+<br clear="right"/>
 
 ## 🛠️ Data Engineering & Tech Stack
 
@@ -72,11 +81,12 @@
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kshivam654&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000" alt="Shivam's GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kshivam654&theme=tokyonight&hide_border=true&bg_color=00000000" alt="Shivam's Streak Stats" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kshivam654&theme=tokyonight" alt="Shivam's GitHub Stats" />
 </div>
+
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kshivam654&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=kshivam654&theme=tokyonight" alt="Shivam's Top Languages" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=kshivam654&theme=tokyonight&utcOffset=5.5" alt="Shivam's Productive Time" />
 </div>
 
 [col_website]: https://uem.edu.in/uem-kolkata/#
